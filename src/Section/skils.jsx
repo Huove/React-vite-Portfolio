@@ -1,12 +1,12 @@
 export default function Skils() {
     const skils = [
         {
-            img: "public/Assets/pg.jpg",
+            img: "Public/Assets/pg.jpg",
             title: "Menggambar",
             desc: "bisa sedikit Menggambar tapi buat character anime aja yahh komik juga bisa lah dikit"
         },
         {
-            img: "public/Assets/mahoraga.jpg",
+            img: "Public/Assets/mahoraga.jpg",
             title: "Adaptasi",
             desc: "di lingkungan baru aku bisa lah beradaptasi dengan cepat tapi gk cepet cepet amat sih"
         }

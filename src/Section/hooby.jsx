@@ -1,17 +1,17 @@
 export default function Hooby() {
     const hooby = [
         {
-            img: "public/Assets/manga.jpg",
+            img: "Public/Assets/manga.jpg",
             title: "Membaca Manga",
             desc: "aku suka baca manga terutama itu manga romance atau fantasy isekai"
         },
         {
-            img: "public/Assets/bangar.jpeg",
+            img: "Public/Assets/bangar.jpeg",
             title: "Bermain Game",
             desc: "paling suka kalo meluang kan waktu dengan main game apalgi main game grinding kyk ZZZ atau HSR"
         },
         {
-            img: "public/Assets/anime.jpg",
+            img: "Public/Assets/anime.jpg",
             title: "Menonton Anime",
             desc: "sama kayak manga aku juga suka nonton anime romance, isekai, action, fantasy. Yahh mirip mirip lah sama manga"
         }
