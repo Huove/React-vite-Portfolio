@@ -1,12 +1,15 @@
+import pg from "../assets/pg.jpg";
+import maho from "../assets/mahoraga.jpg";
+
 export default function Skils() {
     const skils = [
         {
-            img: "Public/Assets/pg.jpg",
+            img: pg,
             title: "Menggambar",
             desc: "bisa sedikit Menggambar tapi buat character anime aja yahh komik juga bisa lah dikit"
         },
         {
-            img: "Public/Assets/mahoraga.jpg",
+            img: maho,
             title: "Adaptasi",
             desc: "di lingkungan baru aku bisa lah beradaptasi dengan cepat tapi gk cepet cepet amat sih"
         }

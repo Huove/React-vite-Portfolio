@@ -1,17 +1,21 @@
+import manga from "../assets/manga.jpg";
+import bangar from "../assets/bangar.jpeg";
+import anime from "../assets/anime.jpg";
+
 export default function Hooby() {
     const hooby = [
         {
-            img: "Public/Assets/manga.jpg",
+            img: manga,
             title: "Membaca Manga",
             desc: "aku suka baca manga terutama itu manga romance atau fantasy isekai"
         },
         {
-            img: "Public/Assets/bangar.jpeg",
+            img: bangar,
             title: "Bermain Game",
             desc: "paling suka kalo meluang kan waktu dengan main game apalgi main game grinding kyk ZZZ atau HSR"
         },
         {
-            img: "Public/Assets/anime.jpg",
+            img: anime,
             title: "Menonton Anime",
             desc: "sama kayak manga aku juga suka nonton anime romance, isekai, action, fantasy. Yahh mirip mirip lah sama manga"
         }
